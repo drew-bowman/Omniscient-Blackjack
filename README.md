@@ -11,20 +11,20 @@ The game also comes with some settings to tweak how the game works: Payout rates
 ### Betting Screen (Home Screen)
 This is the main screen where players can change their bets, go to settings, play a round, and most importantly toggle the omniscience feature, which will show additional information on this screen and the play screen.  
 ![](Bet-Screen.gif)
-#### Omniscient
+#### Omniscient  
 ![](Bet-Screen-Omni-On.png)
-#### Not Omniscient (Regular)
+#### Not Omniscient (Regular)  
 ![](Bet-Screen-Omni-Off.png)
-### Settings Screen
+### Settings Screen  
 This screen allows users to tweak the game to suit their liking. More times than not, this means jacking up the payout rates so you win more $$$.  
 ![](Settings.png)
-### Play Screen
+### Play Screen  
 This is where the actual gameplay takes place and the player tries to score as close to 21 as possible without busting.
-#### Omniscient
+#### Omniscient  
 Note that the omniscient view allows the player to see which cards are remaining, the dealer's likely score, the chance of busting, and a recommendation for which move to make.  
 ![](Gameplay-Omni-On.gif)
 ![](Play-Screen-Omni-On.png)
-#### Not Omniscient
+#### Not Omniscient  
 Most features are stripped, leaving only the basics.  
 ![](Gameplay-Omni-Off.gif)
 ![](Play-Screen-Omni-Off.png)
