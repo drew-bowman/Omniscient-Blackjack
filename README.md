@@ -1,4 +1,4 @@
-# Omniscient Blackjack
+# Omniscient Blackjack <img src="https://github.com/drew-bowman/Omniscient-Blackjack/blob/master/Pngs/icon.png" width="100" height="100">
 iOS blackjack game that provides useful information/probabilities to improve chance of winning.
 
 This project was coded in Swift and developed for iOS using Xcode.
